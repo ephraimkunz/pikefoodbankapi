@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Backend for Pike Food Bank",
   "main": "api.js",
-  "scripts": {n
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ephraimkunz/pikefoodbankapi#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "mssql": "^4.0.4"
   }
