@@ -1,0 +1,19 @@
+{
+  "name": "pikefoodbankapi",
+  "version": "1.0.0",
+  "description": "Backend for Pike Food Bank",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ephraimkunz/pikefoodbankapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ephraimkunz/pikefoodbankapi/issues"
+  },
+  "homepage": "https://github.com/ephraimkunz/pikefoodbankapi#readme"
+}
